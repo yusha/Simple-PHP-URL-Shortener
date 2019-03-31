@@ -110,13 +110,13 @@ $conn->close();
 </form><br/>
 <?php
   
- echo 'Here is the short link: <a href="'; echo $base_url; echo"/"; echo $slug;
-  echo '" target="_blank">'; echo $base_url; echo"/"; echo $slug; echo '</a>';
+ echo 'Here is the short <a href="'; echo $base_url; echo"/"; echo $slug;
+  echo '" target="_blank">'; echo 'link</a>: ';
   
-  ?> <input type="hidden" value="<?php echo $base_url; echo"/"; echo $slug; ?>" id="myInput">
+  ?><input type="text" value="<?php echo $base_url; echo"/"; echo $slug; ?>" id="myInput">
   
   <div class="tooltip"><button onclick="myFunction()" onmouseout="outFunc()"><span class="tooltiptext" id="myTooltip" >Copy to clipboard</span>Copy URL</button></div></center>
-  <?php
+ <?php
 
 } 
 else 
