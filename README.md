@@ -1,5 +1,5 @@
 # Simple-PHP-URL-Shortener
-A Simple PHP Script for URL shortening 
+A Simple PHP Script for URL shortening. This script is Open Source, please feel free to contribute.
 
 Installation:
 
