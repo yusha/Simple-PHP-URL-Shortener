@@ -1,5 +1,10 @@
 # Simple-PHP-URL-Shortener
-A Simple PHP Script for URL shortening. This script is Open Source, please feel free to contribute.
+A Simple PHP Script for URL shortening. This script is Open Source, please feel free to contribute written by Yusha
+
+/* 
+Author: Yusha Ibn Yakub
+Web: www.yusha.ca
+*/
 
 Installation:
 
