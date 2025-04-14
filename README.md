@@ -2,7 +2,7 @@
 A Simple PHP Script for URL shortening. This script is Open Source, please feel free to contribute written by Yusha
 
 /* 
-Author: Yusha Ibn Yakub
+Author: Yusha Y.
 Web: www.yusha.ca
 */
 
