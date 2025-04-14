@@ -2,9 +2,9 @@
 <html>
 
 
-<!-- Simple PHP URL Shortner by Yusha Ibn Yakub
+<!-- Simple PHP URL Shortner by Yusha Y.
 
-Website: https://yusha.me
+Website: https://yusha.ca
 
 -->
 
